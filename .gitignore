@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+##########
+# custom #
+##########
+
+aws-export/us-*.json
+aws-export/*.csv
+aws-export/aws-sdk-config.json
