@@ -107,6 +107,5 @@ dist
 # custom #
 ##########
 
-aws-export/us-*.json
-aws-export/*.csv
-aws-export/aws-sdk-config.json
+aws-export/*.json
+*.csv
